@@ -1,0 +1,14 @@
+.currentTime {
+    width: 250px;
+    margin: 350px auto 60px auto;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.buttons {
+    width: 300px;
+    margin: 0 auto;
+}
+
+.startBtn {
+    width: 100px;
+}

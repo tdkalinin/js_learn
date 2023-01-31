@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+}
+
+.main {
+    margin: 0 auto;
+    max-width: 750px;
+}
+
+.scroller {
+    position: fixed;
+    top: 0;
+    left: 350px;
+    background-color: grey;
+    width: 850px;
+    height: 7px;
+    border-radius: 3px;
+}
+
+.scroller.progress {
+    width: 20px;
+    background-color: orange;
+}

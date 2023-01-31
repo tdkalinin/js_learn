@@ -1,0 +1,32 @@
+.main {
+    position: relative;
+    width: 1520px;
+    height: 740px;
+    display: block;
+    float: right;
+    margin: 0 auto;
+    background-color: grey;
+    /* border: 1px solid black; */
+}
+
+.slider__window {
+    position: relative;
+    width: 512px;
+    height: 512px;
+    margin: 114px auto 0px auto;
+    overflow: hidden;
+}
+
+.slider__item {
+    width: 512px;
+    height: 512px;
+    position: absolute;
+    left: 350px;
+    transition: all ease 0.5s;
+}
+
+.btn {
+    position: absolute;
+    left: 350px;
+    margin: 0 auto;
+}
